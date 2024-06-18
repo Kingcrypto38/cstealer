@@ -6,3 +6,4 @@ auto_py_to_exe
 pyinstaller
 wmi
 fade
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
